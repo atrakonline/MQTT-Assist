@@ -19,13 +19,13 @@ The App. has 15 days trial period . After Trial Period it shows 50 messages only
 
 ## Screenshots
 
-![mqtt-tracker-1](https://github.com/user-attachments/assets/783653ba-7520-49ea-89a2-4728ec81e579)
-![mqtt-tracker-2](https://github.com/user-attachments/assets/c8780c7d-c85b-481e-bb21-6101f94d6532)
-![mqtt-tracker-3](https://github.com/user-attachments/assets/afe2fce4-3214-4189-853b-eaac9d4ac300)
+![mqtt-assist-1](https://github.com/user-attachments/assets/8e24f254-da77-4a01-bb35-bda70f599857)
+![mqtt-assist-2](https://github.com/user-attachments/assets/b0f17732-fc22-4e6b-8f69-09d015df60cb)
+![mqtt-assist-3](https://github.com/user-attachments/assets/cf363930-2089-4a0c-9fdd-f6264ce7d691)
 
 ## Features
 
-- Connect to MQTT brokers
+- Connect to a MQTT broker
 - Subscribe to topics
 - Real-time message viewer
 - LED connection indicators
