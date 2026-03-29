@@ -16,7 +16,8 @@ Download the first version here:
 https://github.com/atrakonline/MQTT-Assist/blob/main/MQTT_Assist_v2.apk
 
 ## Screen Shot (Advanced Features )
-<img width="720" height="1440" alt="mqtt-assist-setting" src="https://github.com/user-attachments/assets/ff485101-75b7-4525-a762-bf9fd360308f" />
+<img width="720" height="1440" alt="mqtt-assist-setting" src="https://github.com/user-attachments/assets/995c23b6-37b2-42b8-a7f5-ad816d80c1ad" />
+
 
 ## Trial Information: (v2.0)
 
@@ -28,6 +29,7 @@ After the trial period:
 • Auto Response feature is disabled
 
 Activate the full version to unlock all features.
+
 
 -------------------------------------------------------------------------------------
 ## First Version : v1.0
