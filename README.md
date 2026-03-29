@@ -13,9 +13,9 @@ Lightweight MQTT client for monitoring and testing MQTT Practical communication.
 
 ## Download (v2.0) 
 Download the first version here:
+https://github.com/atrakonline/MQTT-Assist/blob/main/MQTT_Assist_v2.apk
 
-
-
+-------------------------------------------------------------------------------------
 ## First Version : v1.0
 Simple MQTT client for monitoring MQTT communication.
 
