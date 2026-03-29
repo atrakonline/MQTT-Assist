@@ -1,8 +1,27 @@
 # MQTT-Assist
 
-## Download
+Lightweight MQTT client for monitoring and testing MQTT Practical communication.
 
-Download the latest version here:
+## Latest Version: v2.0
+
+## Features:
+- Auto response (new Topic , response Text , Delay to response )
+- Keep-alive (ping)
+- Message timestamps
+- CRLF support
+- Auto save settings
+
+## Download (v2.0) 
+Download the first version here:
+
+
+
+## First Version : v1.0
+Simple MQTT client for monitoring MQTT communication.
+
+## Download (v1.0)
+
+Download the first version here:
 https://github.com/atrakonline/mqtt-Assist/blob/main/MQTT_Assist_v1.0.apk
 
 ⚠️ Enable "Install from unknown sources" on your Android device.
