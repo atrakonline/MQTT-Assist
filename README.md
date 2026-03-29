@@ -5,8 +5,8 @@ Lightweight MQTT client for monitoring and testing MQTT Practical communication.
 ## Latest Version: v2.0
 
 ## Features:
-- Auto response (new Topic , response Text , Delay to response )
-- Keep-alive (ping)
+- Auto response (response to new Topic , response Text , Delay to response )
+- Keep-alive (ping > 60s)
 - Message timestamps
 - CRLF support
 - Auto save settings
