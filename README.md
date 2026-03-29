@@ -15,6 +15,20 @@ Lightweight MQTT client for monitoring and testing MQTT Practical communication.
 Download the first version here:
 https://github.com/atrakonline/MQTT-Assist/blob/main/MQTT_Assist_v2.apk
 
+## Screen Shot (Advanced Features )
+<img width="720" height="1440" alt="mqtt-assist-setting" src="https://github.com/user-attachments/assets/ff485101-75b7-4525-a762-bf9fd360308f" />
+
+## Trial Information: (v2.0)
+
+This app includes a 15-day free trial with full functionality.
+
+After the trial period:
+• Messages are limited 
+• Updates are delayed 
+• Auto Response feature is disabled
+
+Activate the full version to unlock all features.
+
 -------------------------------------------------------------------------------------
 ## First Version : v1.0
 Simple MQTT client for monitoring MQTT communication.
