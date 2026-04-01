@@ -13,8 +13,9 @@ Using This "Demo Button" will send "Demo Message" every 3 seconds. (After it con
 https://github.com/atrakonline/MQTT-Assist/blob/main/MQTT_Assist_v3.apk
 
 ## Screen Shot 
-<img width="720" height="1440" alt="Screenshot_Running_Demo" src="https://github.com/user-attachments/assets/40ce63e1-59a1-4042-b94a-8dd8f50eb1b1" />
-<img width="720" height="1440" alt="Screenshot_v3_home" src="https://github.com/user-attachments/assets/93fe1b6b-d3a0-4b80-906f-ea16fd1e9578" />
+<img width="720" height="1440" alt="Screenshot_Running_Demo" src="https://github.com/user-attachments/assets/cf5be670-220a-4a91-b490-a842bb8a7612" />
+
+<img width="720" height="1440" alt="Screenshot_v3_home" src="https://github.com/user-attachments/assets/6ee0f865-05ce-4f62-8517-781a751431fa" />
 
 ----------------------------------------------------------------------------------------------------------
 ## Second Version: v2.0
