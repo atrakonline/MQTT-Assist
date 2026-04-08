@@ -8,8 +8,9 @@ Lightweight MQTT client for monitoring and testing MQTT Practical communication.
 
 In the first running (and maybe next) of the App. it shows Privacy Policy issue and needs to confirm by user .
 if it confirmed by user it never shows again and the App. running normally , but if not confirmed ,
-the user can see the opptions and run Demo (by <Start Demo> button) .
+the user can see the opptions and run Demo (by "Start Demo" button) .
 The Demo option(Start Demo) shows the App. in real operative mode .
+If the user NOT CONFIRM the policy , the App. will shows Privacy Policy again at every run .
 
 ## Third Version : v3 (2.1)
 - Added "Start Demo" button  ( to show App. operations automatically )
