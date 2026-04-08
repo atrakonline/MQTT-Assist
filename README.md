@@ -4,7 +4,7 @@ Lightweight MQTT client for monitoring and testing MQTT Practical communication.
 
 ## Forth Version : v4 (2.2)
 - Added Privacy Policy page (MsgBox in the first page)
-- a bug fixed in <Start Demo> mode.
+- a bug fixed in "Start Demo" mode.
 
 In the first running (and maybe next) of the App. it shows Privacy Policy issue and needs to confirm by user .
 if it confirmed by user it never shows again and the App. running normally , but if not confirmed ,
