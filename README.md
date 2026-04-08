@@ -12,6 +12,10 @@ the user can see the opptions and run Demo (by "Start Demo" button) .
 The Demo option(Start Demo) shows the App. in real operative mode .
 If the user NOT CONFIRM the policy , the App. will shows Privacy Policy again at every run .
 
+## Screen Shot
+<img width="720" height="1440" alt="Screenshot_v4_privacyPolicy" src="https://github.com/user-attachments/assets/b4a6ca28-cf66-4664-98d4-d00d73c3bca7" />
+
+
 ## Third Version : v3 (2.1)
 - Added "Start Demo" button  ( to show App. operations automatically )
 - some (hidden) bugs fixed
