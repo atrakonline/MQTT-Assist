@@ -2,7 +2,10 @@
 
 Lightweight MQTT client for monitoring and testing MQTT Practical communication.
 
-## Forth Version : v4 (2.2)
+## Fifth Edition : v5 (2.3)
+- Added Export option as a txt file 
+
+## Forth Edition : v4 (2.2)
 - Added Privacy Policy page (MsgBox in the first page)
 - a bug fixed in "Start Demo" mode.
 
