@@ -2,8 +2,9 @@
 
 Lightweight MQTT client for monitoring and testing MQTT Practical communication.
 
-## Fifth Edition : v5 (2.3)
-- Added Export option as a txt file 
+## Fifth Edition : v5 (2.4)
+- Added Export option as a txt file (v2.3)
+- Some messages(info) changed   (v2.4)
 
 ## Forth Edition : v4 (2.2)
 - Added Privacy Policy page (MsgBox in the first page)
